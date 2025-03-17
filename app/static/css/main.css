@@ -1,0 +1,25 @@
+body{
+        background-image: url('https://imgs.search.brave.com/0fg4EgagCxDBP1y6I0HEzUexNdIcO5kGiEoDjtDl0rw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QllUY3pORE0y/TkRVdFl6VTNZUzAw/T0dNekxXRXdaVEl0/WldNMk5qaGpZell4/T0dRNFhrRXlYa0Zx/Y0dkZVFYUnlZVzV6/WTI5a1pTMTNiM0py/Wm14dmR3QEAuX1Yx/X1FMNzVfVVg1MDBf/Q1IwLDAsNTAwLDI4/MV8uanBn');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+}
+#h{
+    margin: 5px;
+
+    color: red;
+    font-family: georgia;
+    font-size: 30px;
+    text-align: center;
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+
+}
